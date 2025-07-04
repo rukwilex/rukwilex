@@ -15,12 +15,12 @@ Hello there! I’m **Kwilex**, a passionate UI/UX Designer turned Front-End Deve
 
 ## 🛠️ Technologies & Tools
 
-| Category           | Tools & Technologies                   |
-| ------------------ | -------------------------------------- |
-| **Design**         | Figma               |
-| **Markup & Styles**| HTML5, CSS3, Tailwind CSS             |
-| **Version Control**| Git, GitHub                            |
-| **Other Tools**    | VS Code, npm, Yarn, Chrome DevTools    |
+| Category           | Tools & Technologies                     |
+| ------------------ | --------------------------------------   |
+| **Design**         | Figma                                    |
+| **Markup & Styles**| HTML5, CSS3, Tailwind CSS, Python, React |
+| **Version Control**| Git, GitHub                              |
+| **Other Tools**    | VS Code, npm, Yarn, Chrome DevTools      |
 
 ---
 
