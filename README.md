@@ -39,7 +39,7 @@ kwilex — UI/UX designer turned front-end developer. Focused on clean, minimal 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=rukwilex&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=e5e5e5&cache_seconds=86400" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=rukwilex&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=rukwilex&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" height="165"/>
 
 </div>
 
