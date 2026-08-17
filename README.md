@@ -26,6 +26,8 @@ kwilex — UI/UX designer turned front-end developer. Focused on clean, minimal 
 <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue_Router-42B883?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </div>
@@ -36,14 +38,14 @@ kwilex — UI/UX designer turned front-end developer. Focused on clean, minimal 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rukwilex&show_icons=true&theme=graywhite&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rukwilex&theme=graywhite&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=rukwilex&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=e5e5e5&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rukwilex&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukwilex&layout=donut&theme=graywhite&hide_border=true" height="220"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rukwilex&layout=donut&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e5e5e5&cache_seconds=86400" height="220"/>
 
 </div>
 
@@ -51,7 +53,7 @@ kwilex — UI/UX designer turned front-end developer. Focused on clean, minimal 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rukwilex&theme=minimal&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rukwilex&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000&area=false" width="100%"/>
 
 </div>
 
