@@ -6,10 +6,6 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
 ### About
 
 Kwilex — UI/UX designer turned front-end developer. Focused on clean, minimal interfaces, translated into fast, maintainable Vue applications.
@@ -18,58 +14,34 @@ Kwilex — UI/UX designer turned front-end developer. Focused on clean, minimal 
 - Building interfaces with Vue.js and the Composition API
 - Wireframing, prototyping, high-fidelity design systems
 
-</td>
-<td width="40%" valign="top">
+<br/>
 
 ### Stack
 
-`Figma`
-`Vue.js`
-`Vite`
-`Pinia`
-`Vue Router`
-`JavaScript`
-`Git`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### Activity
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kwilex&theme=minimal&hide_border=true&area=true" width="100%"/>
-</div>
 
-<br/>
+<img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Vue.js-1E1E1E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Vite-1E1E1E?style=flat-square&logo=vite&logoColor=B383F9"/>
+<img src="https://img.shields.io/badge/Pinia-1E1E1E?style=flat-square&logo=pinia&logoColor=FFDD54"/>
+<img src="https://img.shields.io/badge/Vue_Router-1E1E1E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=F05032"/>
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Kwilex&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=6C63FF&title_color=6C63FF" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwilex&layout=pie&theme=default&hide_border=true&text_color=333&title_color=6C63FF" width="100%"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kwilex&theme=default&hide_border=true&background=FFFFFF&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[Telegram](https://t.me/usadsgn)
+<a href="https://t.me/usadsgn">
+<img src="https://img.shields.io/badge/Telegram-1E1E1E?style=flat-square&logo=telegram&logoColor=26A5E4"/>
+</a>
 
 </div>
 
-<div align="center">
+<br/>
 
+<div align="center">
 <sub>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</sub>
-
 </div>
